@@ -23,3 +23,17 @@ component name.
 
 
 If further child components are added in the future another item can be added to this map.
+
+
+output sample
+
+Example URL query parameters
+
+1. default theme/appearence
+`http://localhost:3000/#/`
+
+2. client 'abc'
+`http://localhost:3000/#/?client_id=abc`
+
+3 client 'xyz'
+`http://localhost:3000/#/?client_id=xyz`
